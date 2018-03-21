@@ -16,7 +16,9 @@ Install the dependencies
 $ npm install
 ```
 ### Run Json Server
+```sh
 npm run json:server
+```
 
 ### Serve
 To serve in the browser  - Runs webpack-dev-server
